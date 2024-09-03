@@ -2,3 +2,4 @@ password.py
 .env
 __pycache__
 venv
+test.py
